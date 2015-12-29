@@ -1,0 +1,24 @@
+{
+  "name": "hlwen-angular",
+  "version": "1.0.0",
+  "description": "提供angular 指令封装控件",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -a 0.0.0.0 -p 8000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlwen/hlwen-angular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlwen/hlwen-angular/issues"
+  },
+  "homepage": "https://github.com/hlwen/hlwen-angular#readme",
+  "dependencies": {
+    "http-server": "^0.8.5",
+    "koa": "^1.1.2"
+  }
+}
