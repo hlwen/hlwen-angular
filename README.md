@@ -1,0 +1,1 @@
+对angularjs封装
